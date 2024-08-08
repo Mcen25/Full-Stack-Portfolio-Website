@@ -1,11 +1,11 @@
 <script setup lang="ts">
-import SideBar from "./components/SideBar.vue";
+import SideBar from "./components/sidebar/SideBar.vue";
 </script>
 
 <template>
   <SideBar />
   <div>
-    <Navbar />
+    <!-- <Navbar /> -->
     <!-- <RouterView /> -->
   </div>
 </template>
